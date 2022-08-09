@@ -18,5 +18,5 @@
 ## Kontributor
 
 #### Inazuma-Saru
-* [E-mail](mailto: mecharesearchlabs@gmail.com)
+* [E-mail](mailto:mecharesearchlabs@gmail.com)
 * [Instagram](http://www.instagram.com/_yusakarif)
