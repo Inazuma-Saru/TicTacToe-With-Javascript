@@ -103,7 +103,7 @@ function makeMove(event) {
 
 function checkIfTie() {
   if (turn > 7) {
-    alert('Game Over A Tie')
+    alert('Hasil Permainan Ini [ SERI ]')
   }
 }
 
