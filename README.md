@@ -13,7 +13,7 @@
 
 ## Instalasi
 
-* Jalankan [index.html](  ) File Mendukung Di Banyak Web Browser, Anda Tinggal Menjalankannya!
+* Jalankan [index.html](https://inazuma-saru.github.io/TicTacToe-With-Javascript/) File Mendukung Di Banyak Web Browser, Anda Tinggal Menjalankannya!
 
 ## Kontributor
 
