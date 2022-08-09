@@ -8,7 +8,7 @@
 
 ## Tautan
 
-* Live Example - 
+* Live Example - https://inazuma-saru.github.io/TicTacToe-With-Javascript/
 * Github - https://www.github.com/Inazuma-Saru/TicTacToe-With-Javascript
 
 ## Instalasi
